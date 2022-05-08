@@ -6,6 +6,7 @@ let password = document.querySelector("#password");
 
 let containerPassword = document.querySelector("#container-password")
 
+//let charset = "abc... são as variaveis que irei selecionar aleatoriamente na função generatePassword()"
 let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@";
 let novaSenha = "";
 

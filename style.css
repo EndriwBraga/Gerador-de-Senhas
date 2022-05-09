@@ -118,3 +118,22 @@ body{
 }
 
 
+@media screen and (max-width: 480px) {
+    .logo, .container-input, .container-password {
+
+        text-align: center;
+    }
+
+    .logo {
+        width: 90%;
+    }
+
+    .container-input {
+        width: 80%;
+    }
+
+    .container-password {
+        width: 80%;
+    }
+}
+
